@@ -1,0 +1,5 @@
+{
+    "subscription_id": "<<azure-subscription-id>>",
+    "resource_group": "<<azure-resource-group-name>>",
+    "workspace_name": "<<azure-machine-learning-workspace-name>>"
+}
